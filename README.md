@@ -14,8 +14,8 @@ SCSS         11 mins         ▓░░░░░░░░░░░░░░░░
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.abinfotech.in" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-<a href="https://www.abinfotech.in" target="_blank"><img src="[https://cdn.buymeacoffee.com/buttons/v2/default-red.png](https://abinfotech.in/assets/img/logo.png)" alt="Visit AB INFOTECH" width="150" ></a>
-<a href="https://www.abinfotech.in" target="_blank"><img src="[https://cdn.buymeacoffee.com/buttons/v2/default-red.png](https://hostbank.in/templates/hostinza/images/logo.png)" alt="Visit Web Hosting" width="150" ></a>
+<a href="https://www.abinfotech.in" target="_blank"><img src="https://abinfotech.in/assets/img/logo.png" alt="Visit AB INFOTECH" width="150" ></a>
+<a href="https://www.hostbank.in" target="_blank"><img src="https://hostbank.in/templates/hostinza/images/logo.png" alt="Visit Web Hosting" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
